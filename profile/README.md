@@ -1,6 +1,6 @@
 ## Momentum Lab
 
-This is the github workspace of Momentum Lab lead by [Dr. Lei Ma](https://www.malei.org/)
+This is the github workspace of Momentum Lab led by [Dr. Lei Ma](https://www.malei.org/)
 
 <!--
 
